@@ -81,4 +81,36 @@
 
 <br />
 
+### [1.3 Structure of an HTML document]()
+
+#### HTML basic structure
+
+- HTML document has 2 important part: head, body
+- In the following example a basic structure of a HTML document
+
+  ```html
+  <!DOCTYPE html>
+  <html>
+    <head>
+      TITLE, META TAG ETC.
+    </head>
+    <body>
+      CONTENT OF THE WEBPAGE
+    </body>
+  </html>
+  ```
+
+- Always use `<!DOCTYPE html>` to tell the browser what type of document to expect; remember it is not a tag, just a declaration
+- Every HTML document must have `<html>` pair tag and Inside `<html>` tag we use `<head>` and `<body>` as the example shows above.
+- Inside head tag we use meta tag, set title etc.
+- Inside body tag we write everything that we want to display on web page.
+
+#### Environment setup
+
+- Editor: VScode / Notepad++ / Sublime
+- Browser: Google Chrome / Firefox
+- Version Control: GitHub
+
+<br/>
+
 
