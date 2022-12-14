@@ -3,7 +3,7 @@
  
  # HTML Documentation
  
-### Total Chapters are following
+### Total Chapters are as follows
 1. Introduction
 2. Typography
 3. List, Link, Media
@@ -12,7 +12,7 @@
 6. Web Accessibility
 7. HTML Graphics
 8. Projects
-<br />
+
 ## Chapter 1: Introduction
 
 ### [1.1 Introduction to HTML]()
