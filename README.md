@@ -113,4 +113,68 @@
 
 <br/>
 
+### [1.4 First HTML Program]()
+
+#### Example of a basic webpage
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Document</title>
+  </head>
+  <body>
+    This is my first webpage <br />
+    I am Abdullah Numan Shakil <br />
+    A full stack web developer & Competitive Programmer<br />
+  </body>
+</html>
+```
+
+- Here, lang attribute refers to the language; attribute value en refers to english
+- Inside `<head>` tag we have set title of the webpage using `<title>` tag
+- Inside `<body>` tag we are displaying some text. here `<br/>` tag creates a line break
+
+<br/>
+
+### [1.5 Inside Head Tag]()
+
+#### Example
+
+```html
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Free complete html tutorials 2021" />
+  <meta name="keywords" content="HTML, html, html5" />
+  <meta name="author" content="Anisul Islam" />
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    body {
+      background-color: aquamarine;
+    }
+  </style>
+  <script src="index.js"></script>
+  <title>Document</title>
+</head>
+```
+
+- Inside `<head>` tag we can define metadata(document title, character set, links, scripts, styles), other information that will not be visible to the users
+- meta tag provides information to the browsers and search engines about the webpage
+- `<meta charset="UTF-8" />` defines the character encoding for the HTML document.
+- `<meta http-equiv="X-UA-Compatible" content="IE=edge" />` for supporting older version of IE.
+- `<meta name="viewport" content="width=device-width, initial-scale=1.0" />` defines that webpage width is related to devices width and initial zoom level is 1.
+- `<link rel="stylesheet" href="style.css">` generally connects css file to html. Inside of href attribute we give the css file name.
+- `<style> ... </style>` we can use `<style> ... </style>` tag directly inside the head tag for designing html elements.
+- `<script src="index.js"></script>` generally connects js file to html. we can also use `<script> ... </script>` tag directly inside the body tag.
+
+<br/>
+
+### [1.6 Debugging](https://youtu.be/ApmhBx908Ik)
+
+- After writing your html code you can check the validity on this website https://validator.w3.org/
+
+<br/>
+<br/>
 
