@@ -15,7 +15,7 @@
 <br />
 ## Chapter 1: Introduction
 
-### [1.1 Introduction to HTML](https://youtu.be/d35dfSwBTNY)
+### [1.1 Introduction to HTML]()
 
 #### What is HTML & Why HTML?
 
